@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/sfm-manager-api-reactjs":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/sfm-manager-api-reactjs","hostpath":"/Users/silafm/Sites/sfm-manager-api-reactjs","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/silafm/Sites/sfm-manager-api-reactjs","disabled":false,"__vagrantfile":true}}}
